@@ -3,11 +3,9 @@
 ![Preview](https://i.ibb.co/2ZPxRWS/screenshot.png)
 <br>
 <br>
-Combine "very" with a simple adjective to get a more concise adjective 🏆
+An Aerospace Landing Page + WebGL Galaxy Renderer for a school project 🚀
 
 👉 Check out the [live demo](https://no-more-very.ishaantek.com)
-
-A fiction aerospace company's landing page + A Powerful WebGL Galaxy renderer.
 
 This project was made for my 8th grade ELA class.
 
