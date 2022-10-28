@@ -5,7 +5,7 @@
 <br>
 An Aerospace Landing Page + WebGL Galaxy Renderer for a school project 🚀
 
-👉 Check out the [live demo](https://no-more-very.ishaantek.com)
+👉 Check out the [live demo](https://nova.ishaantek.com/)
 
 This project was made for my 8th grade ELA class.
 
